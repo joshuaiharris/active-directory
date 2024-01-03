@@ -1,2 +1,3 @@
-<img src="https://![image](https://github.com/joshuaiharris/active-directory/assets/155191517/79776e8d-1788-49be-9d53-4165603c31d8)
+<img src="https://![image]
 " alt="osTicket logo"/>
+![image](https://github.com/joshuaiharris/active-directory/assets/155191517/3f64b2dd-481c-4455-b18f-ed423ad7cc45)
